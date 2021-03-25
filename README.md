@@ -39,6 +39,8 @@ sqlplus hr/welcome@localhost/XE
 ```
 
 ## 2. Install OCI8 with pecl
+
+### 1. Install oci8 with pecl
 ```bash
 pecl install oci8 # Use 'pecl install oci8' to install for PHP 8.
 
@@ -47,4 +49,9 @@ pecl install oci8-2.2.0 # Use 'pecl install oci8-2.2.0' to install for PHP 7.
 pecl install oci8-2.0.12 # Use 'pecl install oci8-2.0.12' to install for PHP 5.2 - PHP 5.6.
 
 pecl install oci8-1.4.10 # Use 'pecl install oci8-1.4.10' to install for PHP 4.3.9 - PHP 5.1.
+```
+
+### 2. Install oci8 with pecl
+```bash
+pecl install oci8 # Use 'pecl install oci8' to install for PHP 8.
 ```
