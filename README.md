@@ -145,6 +145,6 @@ oci8.connection_class => no value => no value
 oci8.events => Off => Off
 ```
 
-## Referance
-1. (http://comerror.com/oci8-osx.html)
-2. [วิธีตั้งค่า PHP ให้ใช้งาน Database ของ Oracle โดยใช้ OCI8 [สำหรับ Mac OSX]](https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html#license-lightbox)
+## Reference
+1. [วิธีตั้งค่า PHP ให้ใช้งาน Database ของ Oracle โดยใช้ OCI8 [สำหรับ Mac OSX]](http://comerror.com/oci8-osx.html)
+2. [Oracle instant](https://www.oracle.com/database/technologies/instant-client/macos-intel-x86-downloads.html#license-lightbox)
